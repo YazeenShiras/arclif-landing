@@ -1,0 +1,97 @@
+.header {
+  height: 90px;
+  width: 100%;
+  box-shadow: 0 1px 20px 1px #0000001a;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #ffffff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+}
+
+.header__left {
+  margin-left: 8vw;
+  margin-top: 5px;
+}
+
+.header__logo {
+  height: 35px;
+  object-fit: contain;
+}
+
+.header__right {
+  margin-top: 3px;
+  margin-right: 8vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header__event {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 30px;
+  cursor: pointer;
+  text-decoration: none;
+  color: #d89d79;
+}
+
+.header__event > p {
+  font-size: 15px;
+  font-weight: bold;
+  margin-left: 15px;
+}
+
+.header__support {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 30px;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+}
+
+.header__support > p {
+  font-size: 12px;
+  margin-left: 15px;
+}
+
+.loginButton__header {
+  height: 30px;
+  width: 80px;
+  border-radius: 50px;
+  color: #ffffff;
+  background-image: linear-gradient(to right, #000000, #414141);
+  -webkit-box-shadow: 0 10px 6px -5px #0000001a;
+  -moz-box-shadow: 0 10px 6px -5px #0000001a;
+  box-shadow: 0 10px 6px -5px #0000001a;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  transition: all 0.5s ease;
+  text-decoration: none;
+}
+
+.loginButton__header:hover {
+  background-image: linear-gradient(to left, #000000, #414141);
+}
+
+@media only screen and (max-width: 500px) {
+  .header {
+    height: 70px;
+  }
+  .header__event {
+    display: none;
+  }
+  .header__support {
+    display: none;
+  }
+}
