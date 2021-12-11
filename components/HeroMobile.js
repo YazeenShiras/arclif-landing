@@ -90,7 +90,7 @@ const HeroMobile = () => {
       <HeroOptionsMobile
         imageUrl="/marketPlace.jpg"
         title="Arclif Marketplace"
-        description="Arclif MarShop the trendiest products by the best brands, from candle stands
+        description="Shop the trendiest products by the best brands, from candle stands
             to clocks,not to mention the cosy quilts for your finest sleeps at
             an unbeatable price. you can choose a wide range of products like
             coffee tables, lights ,imported cook wares, mats, carpets, curtains,
