@@ -106,7 +106,7 @@ const HeroMobile = () => {
         description="Our world is full of creative people. Find the best ideas,
             inspirations and informations for your next design project or your
             dream home. If you are a budding architect or designer, there is a
-            sea of opportunities awaiting you .Post your concepts and ideas on
+            sea of opportunities awaiting you. Post your concepts and ideas on
             our portal that will take you light years ahead in your career."
         link="https://arclif.com/account/signup"
         linkText="Explore"
