@@ -92,8 +92,8 @@ const HeroMobile = () => {
         title="Arclif Marketplace"
         description="Shop the trendiest products by the best brands, from candle stands
             to clocks,not to mention the cosy quilts for your finest sleeps at
-            an unbeatable price. you can choose a wide range of products like
-            coffee tables, lights ,imported cook wares, mats, carpets, curtains,
+            an unbeatable price. You can choose a wide range of products like
+            coffee tables, lights, imported cook wares, mats, carpets, curtains,
             locks, mirrors, indoor plants, garden furnitures, shower cubicles,
             soap dish, sinks etc."
         link="https://arclif.com/account/signup"
@@ -105,7 +105,7 @@ const HeroMobile = () => {
         title="Ideas and Inspirations"
         description="Our world is full of creative people. Find the best ideas,
             inspirations and informations for your next design project or your
-            dream home.if you are a budding architect or designer, there is a
+            dream home. If you are a budding architect or designer, there is a
             sea of opportunities awaiting you .Post your concepts and ideas on
             our portal that will take you light years ahead in your career."
         link="https://arclif.com/account/signup"
